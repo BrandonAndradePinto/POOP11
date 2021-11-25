@@ -1,0 +1,16 @@
+ar2
+0 linea del for
+1 linea del for
+2 linea del for
+3 linea del for
+4 linea del for
+5 linea del for
+6 linea del for
+7 linea del for
+8 linea del for
+9 linea del for
+Brandon,Andrade,Pinto,317087889,15,02,2001
+Brandon,Andrade,Pinto,317087889,15,02,2001
+Brandon,Andrade,Pinto,317087889,15,02,2001
+Brandon,Andrade,Pinto,317087889,15,02,2001
+Brandon,Andrade,Pinto,317087889,15,02,2001
